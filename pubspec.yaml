@@ -1,0 +1,33 @@
+name: flores
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.6
+  flutter: 
+    sdk: flutter
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.8
+  cloud_firestore: ^4.15.8
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets:
+    - assets/images/splash.png
+    - assets/images/bunga ungu 1px.png
+    - assets/images/Vector 1px.png
+    - assets/images/Vector 2px.png
+    - assets/images/Vector 3px.png
+    - assets/images/Vector 2px.png
+    - assets/images/splas screen.png
+    - assets/images/
+  uses-material-design: true
+

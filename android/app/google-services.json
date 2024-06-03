@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "904321833568",
+    "firebase_url": "https://flowers-ss-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flowers-ss",
+    "storage_bucket": "flowers-ss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904321833568:android:66ebd315ef7b5948f2c105",
+        "android_client_info": {
+          "package_name": "com.example.flores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7L0VZK2EuFy9kWOXY4Wt7pCshol7uD0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
